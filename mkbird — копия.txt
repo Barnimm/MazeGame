@@ -1,0 +1,13 @@
+
+
+код для записи изменений и запуска
+
+mkdir build
+cd build
+cmake ..
+make
+
+путь для шрифта
+/System/Library/Fonts/Supplemental/Arial.ttf
+
+

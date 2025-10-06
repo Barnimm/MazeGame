@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/Users/misa/Desktop/курсовая основа/build",
+  "command": "/usr/bin/clang++  -I\"/Users/misa/Desktop/курсовая основа/include\" -F/Library/Frameworks -iframework /Library/Frameworks/.  -stdlib=libc++ -g -std=gnu++17 -iframework /Library/Frameworks/.  -o CMakeFiles/MazeGame.dir/src/main.cpp.o -c \"/Users/misa/Desktop/курсовая основа/src/main.cpp\"",
+  "file": "/Users/misa/Desktop/курсовая основа/src/main.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/misa/Desktop/курсовая основа/build",
+  "command": "/usr/bin/clang++  -I\"/Users/misa/Desktop/курсовая основа/include\" -F/Library/Frameworks -iframework /Library/Frameworks/.  -stdlib=libc++ -g -std=gnu++17 -iframework /Library/Frameworks/.  -o CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o -c \"/Users/misa/Desktop/курсовая основа/src/AuthWindow.cpp\"",
+  "file": "/Users/misa/Desktop/курсовая основа/src/AuthWindow.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o"
+},
+{
+  "directory": "/Users/misa/Desktop/курсовая основа/build",
+  "command": "/usr/bin/clang++  -I\"/Users/misa/Desktop/курсовая основа/include\" -F/Library/Frameworks -iframework /Library/Frameworks/.  -stdlib=libc++ -g -std=gnu++17 -iframework /Library/Frameworks/.  -o CMakeFiles/MazeGame.dir/src/Game.cpp.o -c \"/Users/misa/Desktop/курсовая основа/src/Game.cpp\"",
+  "file": "/Users/misa/Desktop/курсовая основа/src/Game.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/Game.cpp.o"
+},
+{
+  "directory": "/Users/misa/Desktop/курсовая основа/build",
+  "command": "/usr/bin/clang++  -I\"/Users/misa/Desktop/курсовая основа/include\" -F/Library/Frameworks -iframework /Library/Frameworks/.  -stdlib=libc++ -g -std=gnu++17 -iframework /Library/Frameworks/.  -o CMakeFiles/MazeGame.dir/src/Player.cpp.o -c \"/Users/misa/Desktop/курсовая основа/src/Player.cpp\"",
+  "file": "/Users/misa/Desktop/курсовая основа/src/Player.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/Player.cpp.o"
+},
+{
+  "directory": "/Users/misa/Desktop/курсовая основа/build",
+  "command": "/usr/bin/clang++  -I\"/Users/misa/Desktop/курсовая основа/include\" -F/Library/Frameworks -iframework /Library/Frameworks/.  -stdlib=libc++ -g -std=gnu++17 -iframework /Library/Frameworks/.  -o CMakeFiles/MazeGame.dir/src/User.cpp.o -c \"/Users/misa/Desktop/курсовая основа/src/User.cpp\"",
+  "file": "/Users/misa/Desktop/курсовая основа/src/User.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/User.cpp.o"
+},
+{
+  "directory": "/Users/misa/Desktop/курсовая основа/build",
+  "command": "/usr/bin/clang++  -I\"/Users/misa/Desktop/курсовая основа/include\" -F/Library/Frameworks -iframework /Library/Frameworks/.  -stdlib=libc++ -g -std=gnu++17 -iframework /Library/Frameworks/.  -o CMakeFiles/MazeGame.dir/src/Key.cpp.o -c \"/Users/misa/Desktop/курсовая основа/src/Key.cpp\"",
+  "file": "/Users/misa/Desktop/курсовая основа/src/Key.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/Key.cpp.o"
+},
+{
+  "directory": "/Users/misa/Desktop/курсовая основа/build",
+  "command": "/usr/bin/clang++  -I\"/Users/misa/Desktop/курсовая основа/include\" -F/Library/Frameworks -iframework /Library/Frameworks/.  -stdlib=libc++ -g -std=gnu++17 -iframework /Library/Frameworks/.  -o CMakeFiles/MazeGame.dir/src/Trap.cpp.o -c \"/Users/misa/Desktop/курсовая основа/src/Trap.cpp\"",
+  "file": "/Users/misa/Desktop/курсовая основа/src/Trap.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/Trap.cpp.o"
+},
+{
+  "directory": "/Users/misa/Desktop/курсовая основа/build",
+  "command": "/usr/bin/clang++  -I\"/Users/misa/Desktop/курсовая основа/include\" -F/Library/Frameworks -iframework /Library/Frameworks/.  -stdlib=libc++ -g -std=gnu++17 -iframework /Library/Frameworks/.  -o CMakeFiles/MazeGame.dir/src/Enemy.cpp.o -c \"/Users/misa/Desktop/курсовая основа/src/Enemy.cpp\"",
+  "file": "/Users/misa/Desktop/курсовая основа/src/Enemy.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/Enemy.cpp.o"
+},
+{
+  "directory": "/Users/misa/Desktop/курсовая основа/build",
+  "command": "/usr/bin/clang++  -I\"/Users/misa/Desktop/курсовая основа/include\" -F/Library/Frameworks -iframework /Library/Frameworks/.  -stdlib=libc++ -g -std=gnu++17 -iframework /Library/Frameworks/.  -o CMakeFiles/MazeGame.dir/src/Records.cpp.o -c \"/Users/misa/Desktop/курсовая основа/src/Records.cpp\"",
+  "file": "/Users/misa/Desktop/курсовая основа/src/Records.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/Records.cpp.o"
+}
+]

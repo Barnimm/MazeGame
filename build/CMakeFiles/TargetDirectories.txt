@@ -1,0 +1,3 @@
+/Users/misa/Desktop/курсовая основа/build/CMakeFiles/MazeGame.dir
+/Users/misa/Desktop/курсовая основа/build/CMakeFiles/edit_cache.dir
+/Users/misa/Desktop/курсовая основа/build/CMakeFiles/rebuild_cache.dir
