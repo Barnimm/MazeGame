@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/misa/Desktop/курсовая основа"
+CMAKE_SOURCE_DIR = /Users/misa/Desktop/коляга/mazegame
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/misa/Desktop/курсовая основа/build"
+CMAKE_BINARY_DIR = /Users/misa/Desktop/коляга/mazegame/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/MazeGame.dir/depend.make
@@ -73,130 +73,130 @@ CMakeFiles/MazeGame.dir/codegen:
 .PHONY : CMakeFiles/MazeGame.dir/codegen
 
 CMakeFiles/MazeGame.dir/src/main.cpp.o: CMakeFiles/MazeGame.dir/flags.make
-CMakeFiles/MazeGame.dir/src/main.cpp.o: /Users/misa/Desktop/курсовая\ основа/src/main.cpp
+CMakeFiles/MazeGame.dir/src/main.cpp.o: /Users/misa/Desktop/коляга/mazegame/src/main.cpp
 CMakeFiles/MazeGame.dir/src/main.cpp.o: CMakeFiles/MazeGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/misa/Desktop/курсовая основа/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MazeGame.dir/src/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/main.cpp.o -MF CMakeFiles/MazeGame.dir/src/main.cpp.o.d -o CMakeFiles/MazeGame.dir/src/main.cpp.o -c "/Users/misa/Desktop/курсовая основа/src/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/misa/Desktop/коляга/mazegame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MazeGame.dir/src/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/main.cpp.o -MF CMakeFiles/MazeGame.dir/src/main.cpp.o.d -o CMakeFiles/MazeGame.dir/src/main.cpp.o -c /Users/misa/Desktop/коляга/mazegame/src/main.cpp
 
 CMakeFiles/MazeGame.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MazeGame.dir/src/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/misa/Desktop/курсовая основа/src/main.cpp" > CMakeFiles/MazeGame.dir/src/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/misa/Desktop/коляга/mazegame/src/main.cpp > CMakeFiles/MazeGame.dir/src/main.cpp.i
 
 CMakeFiles/MazeGame.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MazeGame.dir/src/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/misa/Desktop/курсовая основа/src/main.cpp" -o CMakeFiles/MazeGame.dir/src/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/misa/Desktop/коляга/mazegame/src/main.cpp -o CMakeFiles/MazeGame.dir/src/main.cpp.s
 
 CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o: CMakeFiles/MazeGame.dir/flags.make
-CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o: /Users/misa/Desktop/курсовая\ основа/src/AuthWindow.cpp
+CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o: /Users/misa/Desktop/коляга/mazegame/src/AuthWindow.cpp
 CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o: CMakeFiles/MazeGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/misa/Desktop/курсовая основа/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o -MF CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o.d -o CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o -c "/Users/misa/Desktop/курсовая основа/src/AuthWindow.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/misa/Desktop/коляга/mazegame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o -MF CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o.d -o CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.o -c /Users/misa/Desktop/коляга/mazegame/src/AuthWindow.cpp
 
 CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/misa/Desktop/курсовая основа/src/AuthWindow.cpp" > CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/misa/Desktop/коляга/mazegame/src/AuthWindow.cpp > CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.i
 
 CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/misa/Desktop/курсовая основа/src/AuthWindow.cpp" -o CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/misa/Desktop/коляга/mazegame/src/AuthWindow.cpp -o CMakeFiles/MazeGame.dir/src/AuthWindow.cpp.s
 
 CMakeFiles/MazeGame.dir/src/Game.cpp.o: CMakeFiles/MazeGame.dir/flags.make
-CMakeFiles/MazeGame.dir/src/Game.cpp.o: /Users/misa/Desktop/курсовая\ основа/src/Game.cpp
+CMakeFiles/MazeGame.dir/src/Game.cpp.o: /Users/misa/Desktop/коляга/mazegame/src/Game.cpp
 CMakeFiles/MazeGame.dir/src/Game.cpp.o: CMakeFiles/MazeGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/misa/Desktop/курсовая основа/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MazeGame.dir/src/Game.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Game.cpp.o -MF CMakeFiles/MazeGame.dir/src/Game.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Game.cpp.o -c "/Users/misa/Desktop/курсовая основа/src/Game.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/misa/Desktop/коляга/mazegame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MazeGame.dir/src/Game.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Game.cpp.o -MF CMakeFiles/MazeGame.dir/src/Game.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Game.cpp.o -c /Users/misa/Desktop/коляга/mazegame/src/Game.cpp
 
 CMakeFiles/MazeGame.dir/src/Game.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MazeGame.dir/src/Game.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/misa/Desktop/курсовая основа/src/Game.cpp" > CMakeFiles/MazeGame.dir/src/Game.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/misa/Desktop/коляга/mazegame/src/Game.cpp > CMakeFiles/MazeGame.dir/src/Game.cpp.i
 
 CMakeFiles/MazeGame.dir/src/Game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MazeGame.dir/src/Game.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/misa/Desktop/курсовая основа/src/Game.cpp" -o CMakeFiles/MazeGame.dir/src/Game.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/misa/Desktop/коляга/mazegame/src/Game.cpp -o CMakeFiles/MazeGame.dir/src/Game.cpp.s
 
 CMakeFiles/MazeGame.dir/src/Player.cpp.o: CMakeFiles/MazeGame.dir/flags.make
-CMakeFiles/MazeGame.dir/src/Player.cpp.o: /Users/misa/Desktop/курсовая\ основа/src/Player.cpp
+CMakeFiles/MazeGame.dir/src/Player.cpp.o: /Users/misa/Desktop/коляга/mazegame/src/Player.cpp
 CMakeFiles/MazeGame.dir/src/Player.cpp.o: CMakeFiles/MazeGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/misa/Desktop/курсовая основа/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MazeGame.dir/src/Player.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Player.cpp.o -MF CMakeFiles/MazeGame.dir/src/Player.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Player.cpp.o -c "/Users/misa/Desktop/курсовая основа/src/Player.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/misa/Desktop/коляга/mazegame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MazeGame.dir/src/Player.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Player.cpp.o -MF CMakeFiles/MazeGame.dir/src/Player.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Player.cpp.o -c /Users/misa/Desktop/коляга/mazegame/src/Player.cpp
 
 CMakeFiles/MazeGame.dir/src/Player.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MazeGame.dir/src/Player.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/misa/Desktop/курсовая основа/src/Player.cpp" > CMakeFiles/MazeGame.dir/src/Player.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/misa/Desktop/коляга/mazegame/src/Player.cpp > CMakeFiles/MazeGame.dir/src/Player.cpp.i
 
 CMakeFiles/MazeGame.dir/src/Player.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MazeGame.dir/src/Player.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/misa/Desktop/курсовая основа/src/Player.cpp" -o CMakeFiles/MazeGame.dir/src/Player.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/misa/Desktop/коляга/mazegame/src/Player.cpp -o CMakeFiles/MazeGame.dir/src/Player.cpp.s
 
 CMakeFiles/MazeGame.dir/src/User.cpp.o: CMakeFiles/MazeGame.dir/flags.make
-CMakeFiles/MazeGame.dir/src/User.cpp.o: /Users/misa/Desktop/курсовая\ основа/src/User.cpp
+CMakeFiles/MazeGame.dir/src/User.cpp.o: /Users/misa/Desktop/коляга/mazegame/src/User.cpp
 CMakeFiles/MazeGame.dir/src/User.cpp.o: CMakeFiles/MazeGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/misa/Desktop/курсовая основа/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MazeGame.dir/src/User.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/User.cpp.o -MF CMakeFiles/MazeGame.dir/src/User.cpp.o.d -o CMakeFiles/MazeGame.dir/src/User.cpp.o -c "/Users/misa/Desktop/курсовая основа/src/User.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/misa/Desktop/коляга/mazegame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MazeGame.dir/src/User.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/User.cpp.o -MF CMakeFiles/MazeGame.dir/src/User.cpp.o.d -o CMakeFiles/MazeGame.dir/src/User.cpp.o -c /Users/misa/Desktop/коляга/mazegame/src/User.cpp
 
 CMakeFiles/MazeGame.dir/src/User.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MazeGame.dir/src/User.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/misa/Desktop/курсовая основа/src/User.cpp" > CMakeFiles/MazeGame.dir/src/User.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/misa/Desktop/коляга/mazegame/src/User.cpp > CMakeFiles/MazeGame.dir/src/User.cpp.i
 
 CMakeFiles/MazeGame.dir/src/User.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MazeGame.dir/src/User.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/misa/Desktop/курсовая основа/src/User.cpp" -o CMakeFiles/MazeGame.dir/src/User.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/misa/Desktop/коляга/mazegame/src/User.cpp -o CMakeFiles/MazeGame.dir/src/User.cpp.s
 
 CMakeFiles/MazeGame.dir/src/Key.cpp.o: CMakeFiles/MazeGame.dir/flags.make
-CMakeFiles/MazeGame.dir/src/Key.cpp.o: /Users/misa/Desktop/курсовая\ основа/src/Key.cpp
+CMakeFiles/MazeGame.dir/src/Key.cpp.o: /Users/misa/Desktop/коляга/mazegame/src/Key.cpp
 CMakeFiles/MazeGame.dir/src/Key.cpp.o: CMakeFiles/MazeGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/misa/Desktop/курсовая основа/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MazeGame.dir/src/Key.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Key.cpp.o -MF CMakeFiles/MazeGame.dir/src/Key.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Key.cpp.o -c "/Users/misa/Desktop/курсовая основа/src/Key.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/misa/Desktop/коляга/mazegame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MazeGame.dir/src/Key.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Key.cpp.o -MF CMakeFiles/MazeGame.dir/src/Key.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Key.cpp.o -c /Users/misa/Desktop/коляга/mazegame/src/Key.cpp
 
 CMakeFiles/MazeGame.dir/src/Key.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MazeGame.dir/src/Key.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/misa/Desktop/курсовая основа/src/Key.cpp" > CMakeFiles/MazeGame.dir/src/Key.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/misa/Desktop/коляга/mazegame/src/Key.cpp > CMakeFiles/MazeGame.dir/src/Key.cpp.i
 
 CMakeFiles/MazeGame.dir/src/Key.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MazeGame.dir/src/Key.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/misa/Desktop/курсовая основа/src/Key.cpp" -o CMakeFiles/MazeGame.dir/src/Key.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/misa/Desktop/коляга/mazegame/src/Key.cpp -o CMakeFiles/MazeGame.dir/src/Key.cpp.s
 
 CMakeFiles/MazeGame.dir/src/Trap.cpp.o: CMakeFiles/MazeGame.dir/flags.make
-CMakeFiles/MazeGame.dir/src/Trap.cpp.o: /Users/misa/Desktop/курсовая\ основа/src/Trap.cpp
+CMakeFiles/MazeGame.dir/src/Trap.cpp.o: /Users/misa/Desktop/коляга/mazegame/src/Trap.cpp
 CMakeFiles/MazeGame.dir/src/Trap.cpp.o: CMakeFiles/MazeGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/misa/Desktop/курсовая основа/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/MazeGame.dir/src/Trap.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Trap.cpp.o -MF CMakeFiles/MazeGame.dir/src/Trap.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Trap.cpp.o -c "/Users/misa/Desktop/курсовая основа/src/Trap.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/misa/Desktop/коляга/mazegame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/MazeGame.dir/src/Trap.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Trap.cpp.o -MF CMakeFiles/MazeGame.dir/src/Trap.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Trap.cpp.o -c /Users/misa/Desktop/коляга/mazegame/src/Trap.cpp
 
 CMakeFiles/MazeGame.dir/src/Trap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MazeGame.dir/src/Trap.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/misa/Desktop/курсовая основа/src/Trap.cpp" > CMakeFiles/MazeGame.dir/src/Trap.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/misa/Desktop/коляга/mazegame/src/Trap.cpp > CMakeFiles/MazeGame.dir/src/Trap.cpp.i
 
 CMakeFiles/MazeGame.dir/src/Trap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MazeGame.dir/src/Trap.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/misa/Desktop/курсовая основа/src/Trap.cpp" -o CMakeFiles/MazeGame.dir/src/Trap.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/misa/Desktop/коляга/mazegame/src/Trap.cpp -o CMakeFiles/MazeGame.dir/src/Trap.cpp.s
 
 CMakeFiles/MazeGame.dir/src/Enemy.cpp.o: CMakeFiles/MazeGame.dir/flags.make
-CMakeFiles/MazeGame.dir/src/Enemy.cpp.o: /Users/misa/Desktop/курсовая\ основа/src/Enemy.cpp
+CMakeFiles/MazeGame.dir/src/Enemy.cpp.o: /Users/misa/Desktop/коляга/mazegame/src/Enemy.cpp
 CMakeFiles/MazeGame.dir/src/Enemy.cpp.o: CMakeFiles/MazeGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/misa/Desktop/курсовая основа/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/MazeGame.dir/src/Enemy.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Enemy.cpp.o -MF CMakeFiles/MazeGame.dir/src/Enemy.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Enemy.cpp.o -c "/Users/misa/Desktop/курсовая основа/src/Enemy.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/misa/Desktop/коляга/mazegame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/MazeGame.dir/src/Enemy.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Enemy.cpp.o -MF CMakeFiles/MazeGame.dir/src/Enemy.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Enemy.cpp.o -c /Users/misa/Desktop/коляга/mazegame/src/Enemy.cpp
 
 CMakeFiles/MazeGame.dir/src/Enemy.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MazeGame.dir/src/Enemy.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/misa/Desktop/курсовая основа/src/Enemy.cpp" > CMakeFiles/MazeGame.dir/src/Enemy.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/misa/Desktop/коляга/mazegame/src/Enemy.cpp > CMakeFiles/MazeGame.dir/src/Enemy.cpp.i
 
 CMakeFiles/MazeGame.dir/src/Enemy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MazeGame.dir/src/Enemy.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/misa/Desktop/курсовая основа/src/Enemy.cpp" -o CMakeFiles/MazeGame.dir/src/Enemy.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/misa/Desktop/коляга/mazegame/src/Enemy.cpp -o CMakeFiles/MazeGame.dir/src/Enemy.cpp.s
 
 CMakeFiles/MazeGame.dir/src/Records.cpp.o: CMakeFiles/MazeGame.dir/flags.make
-CMakeFiles/MazeGame.dir/src/Records.cpp.o: /Users/misa/Desktop/курсовая\ основа/src/Records.cpp
+CMakeFiles/MazeGame.dir/src/Records.cpp.o: /Users/misa/Desktop/коляга/mazegame/src/Records.cpp
 CMakeFiles/MazeGame.dir/src/Records.cpp.o: CMakeFiles/MazeGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/misa/Desktop/курсовая основа/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/MazeGame.dir/src/Records.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Records.cpp.o -MF CMakeFiles/MazeGame.dir/src/Records.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Records.cpp.o -c "/Users/misa/Desktop/курсовая основа/src/Records.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/misa/Desktop/коляга/mazegame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/MazeGame.dir/src/Records.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Records.cpp.o -MF CMakeFiles/MazeGame.dir/src/Records.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Records.cpp.o -c /Users/misa/Desktop/коляга/mazegame/src/Records.cpp
 
 CMakeFiles/MazeGame.dir/src/Records.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MazeGame.dir/src/Records.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/misa/Desktop/курсовая основа/src/Records.cpp" > CMakeFiles/MazeGame.dir/src/Records.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/misa/Desktop/коляга/mazegame/src/Records.cpp > CMakeFiles/MazeGame.dir/src/Records.cpp.i
 
 CMakeFiles/MazeGame.dir/src/Records.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MazeGame.dir/src/Records.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/misa/Desktop/курсовая основа/src/Records.cpp" -o CMakeFiles/MazeGame.dir/src/Records.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/misa/Desktop/коляга/mazegame/src/Records.cpp -o CMakeFiles/MazeGame.dir/src/Records.cpp.s
 
 # Object files for target MazeGame
 MazeGame_OBJECTS = \
@@ -228,7 +228,7 @@ MazeGame: /Library/Frameworks/./sfml-window.framework/Versions/2.5.1/sfml-window
 MazeGame: /Library/Frameworks/./sfml-audio.framework/Versions/2.5.1/sfml-audio
 MazeGame: /Library/Frameworks/./sfml-system.framework/Versions/2.5.1/sfml-system
 MazeGame: CMakeFiles/MazeGame.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/Users/misa/Desktop/курсовая основа/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable MazeGame"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/misa/Desktop/коляга/mazegame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable MazeGame"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MazeGame.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -240,6 +240,6 @@ CMakeFiles/MazeGame.dir/clean:
 .PHONY : CMakeFiles/MazeGame.dir/clean
 
 CMakeFiles/MazeGame.dir/depend:
-	cd "/Users/misa/Desktop/курсовая основа/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/misa/Desktop/курсовая основа" "/Users/misa/Desktop/курсовая основа" "/Users/misa/Desktop/курсовая основа/build" "/Users/misa/Desktop/курсовая основа/build" "/Users/misa/Desktop/курсовая основа/build/CMakeFiles/MazeGame.dir/DependInfo.cmake" "--color=$(COLOR)"
+	cd /Users/misa/Desktop/коляга/mazegame/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/misa/Desktop/коляга/mazegame /Users/misa/Desktop/коляга/mazegame /Users/misa/Desktop/коляга/mazegame/build /Users/misa/Desktop/коляга/mazegame/build /Users/misa/Desktop/коляга/mazegame/build/CMakeFiles/MazeGame.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/MazeGame.dir/depend
 

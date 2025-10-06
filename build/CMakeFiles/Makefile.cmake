@@ -12,7 +12,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/Library/Frameworks/SFML.framework/Resources/CMake/SFMLConfigVersion.cmake"
   "/Library/Frameworks/SFML.framework/Resources/CMake/SFMLSharedTargets-release.cmake"
   "/Library/Frameworks/SFML.framework/Resources/CMake/SFMLSharedTargets.cmake"
-  "/Users/misa/Desktop/курсовая основа/CMakeLists.txt"
+  "/Users/misa/Desktop/коляга/mazegame/CMakeLists.txt"
   "CMakeFiles/3.31.6/CMakeCCompiler.cmake"
   "CMakeFiles/3.31.6/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.31.6/CMakeSystem.cmake"
